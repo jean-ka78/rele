@@ -10,7 +10,7 @@
 #include <ArduinoOTA.h> // Додано для OTA
 
 // Константи для Wi-Fi
-const char* ssid = "aonline3g";
+const char* ssid = "aonline";
 const char* password = "1qaz2wsx3edc";
 
 // Константи для MQTT
